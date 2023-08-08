@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/httkaushal10101547" target="blank"><img src="https://img.shields.io/twitter/follow/httkaushal10101547?logo=twitter&style=for-the-badge" alt="httkaushal10101547" /></a> </p>
 
-- 🔭 I’m currently working in [Fantail Technologies](https://www.fantailtech.com/)
+- 🔭 I’m currently working at [Fantail Technologies](https://www.fantailtech.com/)
 
 - 🌱 I’m currently learning **LLMs, collaborative filtering algorithms, and search ranking.**
 
