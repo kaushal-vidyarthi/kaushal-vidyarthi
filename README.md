@@ -1,8 +1,4 @@
-Always show details
-
-Copy
-# Modify the original GitHub README-style content while retaining its style and icons
-github_readme_updated = """
+"""
 <h1 align="center">Hi 👋, I'm Kaushal Kishor Vidyarthi</h1>
 <h3 align="center">A passionate full-stack software developer with a product mindset</h3>
 
@@ -15,7 +11,7 @@ github_readme_updated = """
 ---
 
 🚀 **Currently Building**  
-- Leading the public-facing development of [ShowCycle](https://www.fantailtech.com/) at **Fantail Technologies**  
+- Leading the public-facing development of [ShowCycle](https://na1.showcycle.com/st25) at **Fantail Technologies**  
 - Designing interactive floorplans with Canvas and ReactKonva  
 - Building a Salesforce Experience Cloud Exhibitor Portal using LWC  
 
