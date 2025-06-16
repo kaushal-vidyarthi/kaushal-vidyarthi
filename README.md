@@ -1,4 +1,3 @@
-"""
 <h1 align="center">Hi 👋, I'm Kaushal Kishor Vidyarthi</h1>
 <h3 align="center">A passionate full-stack software developer with a product mindset</h3>
 
@@ -57,4 +56,3 @@ React, Next.js, Node.js, Neo4j, LWC, Salesforce, canvas rendering, ChatGPT
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal-vidyarthi&show_icons=true&locale=en&layout=compact" alt="kaushal-vidyarthi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushal-vidyarthi&show_icons=true&locale=en" alt="kaushal-vidyarthi" /></p>
-"""
